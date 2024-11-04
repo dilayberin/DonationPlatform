@@ -1,7 +1,9 @@
-###Bağış Platformu: Kurumlara Kolay Erişim Ve Destek 
+BAĞIŞ PLATFORMU: KURUMLARA KOLAY ERİŞİM VE DESTEK 
 
 Edanur Çağlayan - 220260021
+
 Zeynep Şevval Şahin - 22026091
+
 Dilay Berin Akkan - 220260071
 
 
