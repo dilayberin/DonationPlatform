@@ -25,3 +25,5 @@ Platform, çeşitli verileri saklamak için aşağıdaki tablo yapısını kulla
 Kullanıcılar sisteme kayıt olduktan sonra bir kuruma veya kampanyaya belirli bir ödeme türünü kullanarak bağış yapabilirler. Bağış yaptıkça belirli seviyelerde rozetler kazanırlar. Platform, kullanıcıların geçmiş bağış hareketlerini ve kazandıkları rozetleri profil sayfasında gösterir.
 
 
+
+
