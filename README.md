@@ -4,16 +4,16 @@ Platform, çeşitli verileri saklamak için aşağıdaki tablo yapısını kulla
 
 ### Tablolar
 
-### Sirket
+### Şirket
 - Bağış yapılabilecek kurumları temsil eder. Kurumun adı, iletişim bilgileri ve açıklamaları gibi detayları içerir.
 
-### Kullanici
+### Kullanıcı
 - Platforma kayıtlı kullanıcı bilgilerini saklar. Kullanıcılar, bağış yapabilir ve belirli rozetleri kazanabilir.
 
-### Bagis
+### Bağış
 - Kullanıcıların yaptıkları bağışların bilgilerini tutar. Hangi kampanyaya, hangi ödeme türü ile bağış yapıldığını içerir.
 
- ### Odeme Turu
+ ### Ödeme Türü
 - Bağış için kullanılabilecek ödeme yöntemlerini tanımlar (örn. kredi kartı, havale).
 
 ### Kampanya
