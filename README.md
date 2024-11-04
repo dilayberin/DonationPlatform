@@ -1,4 +1,10 @@
-# Bağış Platformu
+Bağış Platformu: Kurumlara Kolay Erişim Ve Destek 
+
+Edanur Çağlayan - 220260021
+Zeynep Şevval Şahin - 22026091
+Dilay Berin Akkan - 220260071
+
+
 Bu proje, kullanıcıların kurumlara bağış yapabilmelerini sağlayan bir platformdur. Kullanıcılar, belirli kampanyalar ve ödeme türleri üzerinden bağış yapabilir, bağış yaptıkça rozetler kazanır ve tüm bu süreç platform tarafından kayıt altına alınarak şeffaflık sağlanır.
 Platform, çeşitli verileri saklamak için aşağıdaki tablo yapısını kullanır:
 
