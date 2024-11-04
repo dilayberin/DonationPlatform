@@ -1,4 +1,4 @@
-#Bağış Platformu: Kurumlara Kolay Erişim Ve Destek 
+###Bağış Platformu: Kurumlara Kolay Erişim Ve Destek 
 
 Edanur Çağlayan - 220260021
 Zeynep Şevval Şahin - 22026091
